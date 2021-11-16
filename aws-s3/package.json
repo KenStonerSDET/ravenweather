@@ -9,7 +9,7 @@
   "author": "nootropic design",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.539.0",
+    "aws-sdk": "^2.814.0",
     "dateformat": "^3.0.3",
     "glob": "^7.1.4",
     "jimp": "^0.8.4",
